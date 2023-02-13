@@ -26,7 +26,7 @@ How to setup:
 
 2. **Preparation**: Start **Voice-QL** as described here: https://github.com/fboerncke/voice-ql#setup--installation
 
-The chatbot will use (1) and (2) as backend.
+   The chatbot will use (1) and (2) as backend.
 
 3. Checkout, build and start the chatbot:
 
