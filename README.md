@@ -32,7 +32,7 @@ How to setup:
 
    ```
    mkdir voice-ql-vue-chatbot
-   git clone ...
+   git clone git@github.com:fboerncke/voice-ql-vue-chat-client.git
    npm install
    npm run serve
    ```
